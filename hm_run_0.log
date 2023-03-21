@@ -1,0 +1,248 @@
+03-21 10:48:15(15420) cos INFO: [Cos_ThreadCreate:80]thread[Cos_InetMgr]:0x33c6848 create OK
+03-21 10:48:15(15420) cos INFO: [Cos_SysInit:62]Cos init ok
+03-21 10:48:15(8364) cos INFO: [Cos_ThreadProc:175]thread[Cos_InetMgr]:0x33c6848 , threadid:8364 start ok
+03-21 10:48:15(15420) cos ERR: [Cos_FileLoad:131]file open pucFileName:C:/Users/0/AppData/Local/VideoSurveillancePlatform/conf/config/00000000/corecfg.db
+03-21 10:48:15(15420) cos ERR: [Cos_FileLoad:131]file open pucFileName:C:/Users/0/AppData/Local/VideoSurveillancePlatform/conf/config/00000000/devcfg.db
+03-21 10:48:15(15420) cos ERR: [Cos_FileLoad:131]file open pucFileName:C:/Users/0/AppData/Local/VideoSurveillancePlatform/conf/config/00000000/camercfg.db
+03-21 10:48:15(15420) cos ERR: [Cos_FileLoad:131]file open pucFileName:C:/Users/0/AppData/Local/VideoSurveillancePlatform/conf/config/00000000/newversion.db
+03-21 10:48:15(15420) cos ERR: [Cos_FileLoad:131]file open pucFileName:C:/Users/0/AppData/Local/VideoSurveillancePlatform/conf/config/00000000/ownercfg.db
+03-21 10:48:15(15420) MD_CACHE INFO: [Md_AuidoInit:52]audio init ok
+03-21 10:48:15(15420) MD_CACHE INFO: [Md_VideoInit:57]media video init
+03-21 10:48:15(15420) MD_MP4_MUXER INFO: [Md_Mp4Muxer_Init:46]mp4 muxer init ok
+03-21 10:48:15(15420) MD_MP4 INFO: [Md_Mp4DeMuxer_Init:41]mp4 demuxer init ok
+03-21 10:48:15(15420) TRAS_TASK INFO: [Tras_Malloc_SockBuf:26]malloc socket buff cnt 10 
+03-21 10:48:15(15420) MULTI_MEDIA INFO: [MultiMedia_Init:92]Task Init Ok
+03-21 10:48:15(15420) TRAS_TASK INFO: [Tras_Malloc_SockBuf:26]malloc socket buff cnt 14 
+03-21 10:48:15(15420) cos INFO: [Cos_ThreadCreate:80]thread[HttpClientThread]:0x3a46820 create OK
+03-21 10:48:15(15420) TRAS_HTTP INFO: [Tras_Httpclient_Init:161]Httpclient Initialize success!
+03-21 10:48:15(15420) DP_MNG INFO: [DiskSpace_Init:302]disk spce mng task init ok
+03-21 10:48:15(15420) EVENT_TASK INFO: [Event_Init:1554]notice module init
+03-21 10:48:15(15420) CLOUD_TASK INFO: [Cloud_ResInit:38]cloud res init ok
+03-21 10:48:15(12108) cos INFO: [Cos_ThreadProc:175]thread[HttpClientThread]:0x3a46820 , threadid:12108 start ok
+03-21 10:48:15(15420) TRAS_TASK INFO: [Tras_SetNetworkType:69]set net work type 1 
+03-21 10:48:15(15420) cos INFO: [Cos_ThreadCreate:80]thread[cfg_task]:0x33c04b0 create OK
+03-21 10:48:15(15420) CFG_TASK INFO: [Cfg_Task_Start:84]sdk version 01.01.01.01
+03-21 10:48:15(15420) cos INFO: [Cos_ThreadCreate:80]thread[cmd_task]:0x33c04f0 create OK
+03-21 10:48:15(15420) CMD_TASK INFO: [Cmd_Start:262]cmd task start ok
+03-21 10:48:15(15420) cos INFO: [Cos_ThreadCreate:80]thread[md_mng]:0x33c0550 create OK
+03-21 10:48:15(15420) cos INFO: [Cos_ThreadCreate:80]thread[cloud_block]:0x33cd628 create OK
+03-21 10:48:15(12272) cos INFO: [Cos_ThreadProc:175]thread[cfg_task]:0x33c04b0 , threadid:12272 start ok
+03-21 10:48:15(15420) cos INFO: [Cos_ThreadCreate:80]thread[cloud_unblock]:0x33cd668 create OK
+03-21 10:48:15(5808) cos INFO: [Cos_ThreadProc:175]thread[md_mng]:0x33c0550 , threadid:5808 start ok
+03-21 10:48:15(15420) TRAS_TASK INFO: [TrasPeer_LoadDeviceList:304]load group list number 0
+03-21 10:48:15(15420) TRAS_TASK INFO: [TrasLink_GetLink:29]link task init OK
+03-21 10:48:15(21620) cos INFO: [Cos_ThreadProc:175]thread[cmd_task]:0x33c04f0 , threadid:21620 start ok
+03-21 10:48:15(15420) cos INFO: [Cos_ThreadCreate:80]thread[TrasBaseProcThread]:0x3a6eae8 create OK
+03-21 10:48:15(12284) cos INFO: [Cos_ThreadProc:175]thread[cloud_block]:0x33cd628 , threadid:12284 start ok
+03-21 10:48:15(15420) cos INFO: [Cos_ThreadCreate:80]thread[TrasBaseSendThread]:0x3a6e8a8 create OK
+03-21 10:48:15(2952) cos INFO: [Cos_ThreadProc:175]thread[cloud_unblock]:0x33cd668 , threadid:2952 start ok
+03-21 10:48:15(15420) cos INFO: [Cos_ThreadCreate:80]thread[TunnelRecvThread]:0x3a6e828 create OK
+03-21 10:48:15(15420) TRAS_TASK INFO: [TrasBase_StartThread:441]Tras start threads running success
+03-21 10:48:15(15420) cos INFO: [Cos_ThreadCreate:80]thread[MULTI_MEDIA]:0x3a6e9a8 create OK
+03-21 10:48:15(15420) TRAS_TASK INFO: [Tras_Start:36]tras task start ok
+03-21 10:48:15(15420) cos INFO: [Cos_ThreadCreate:80]thread[DP_TASK]:0x3a6e7a8 create OK
+03-21 10:48:15(15420) DP_MNG INFO: [DiskSpace_Start:319]disk spce mng task run ok
+03-21 10:48:15(12468) cos INFO: [Cos_ThreadProc:175]thread[TrasBaseProcThread]:0x3a6eae8 , threadid:12468 start ok
+03-21 10:48:15(12840) cos INFO: [Cos_ThreadProc:175]thread[TrasBaseSendThread]:0x3a6e8a8 , threadid:12840 start ok
+03-21 10:48:15(13596) cos INFO: [Cos_ThreadProc:175]thread[TunnelRecvThread]:0x3a6e828 , threadid:13596 start ok
+03-21 10:48:15(12468) TRAS_TASK INFO: [TrasBase_ProcThread:495]net work change proc ok
+03-21 10:48:15(20376) cos INFO: [Cos_ThreadProc:175]thread[MULTI_MEDIA]:0x3a6e9a8 , threadid:20376 start ok
+03-21 10:48:15(15420) cos INFO: [Cos_ThreadCreate:80]thread[Notice_Internal_Task]:0x3a6e768 create OK
+03-21 10:48:15(18080) cos INFO: [Cos_ThreadProc:175]thread[DP_TASK]:0x3a6e7a8 , threadid:18080 start ok
+03-21 10:48:15(15420) EVENT_TASK INFO: [Event_Start:1625]notice module start ok
+03-21 10:48:15(15420) cos INFO: [Cos_ThreadCreate:80]thread[CloudMng]:0x3a6e868 create OK
+03-21 10:48:15(7984) cos INFO: [Cos_ThreadProc:175]thread[Notice_Internal_Task]:0x3a6e768 , threadid:7984 start ok
+03-21 10:48:15(15420) cos INFO: [Cos_ThreadCreate:80]thread[cloud res]:0x3a6e7e8 create OK
+03-21 10:48:15(15420) CLOUD_TASK INFO: [Cloud_ResStart:79]cloud res start ok
+03-21 10:48:15(15420) cos INFO: [Cos_ThreadCreate:80]thread[CloudExternChan]:0x3a6e928 create OK
+03-21 10:48:15(8880) cos INFO: [Cos_ThreadProc:175]thread[CloudMng]:0x3a6e868 , threadid:8880 start ok
+03-21 10:48:15(15420) CLOUD_TASK INFO: [Cloud_Start:67]cloud task start ok
+03-21 10:48:15(14308) cos INFO: [Cos_ThreadProc:175]thread[cloud res]:0x3a6e7e8 , threadid:14308 start ok
+03-21 10:48:15(14892) cos INFO: [Cos_ThreadProc:175]thread[CloudExternChan]:0x3a6e928 , threadid:14892 start ok
+03-21 10:48:16(8364) cos INFO: [Cos_InetMgrProc:110]get host svr.smartcloudcon.com ok ip 130627730 passive 0
+03-21 10:48:16(12468) TRAS_TASK INFO: [TrasLink_AsyncGetLinkAddr:143]Link begain to get addr sign addr svr.smartcloudcon.com ipv4 flag 0 
+03-21 10:48:16(12468) cos INFO: [Cos_SocketOpen:377]socket<1212> open ok
+03-21 10:48:16(12468) TRAS_HTTP INFO: [Tras_Httpsclient_SendAsyncPostRequest:1377]Slot is 03A74B08, Socket 1212,index is 1  Url triclient
+03-21 10:48:16(12468) TRAS_TASK INFO: [TrasNat_GetLocalIP:57]udpPort 192.168.50.1:8382 has been setted 
+03-21 10:48:17(8364) cos INFO: [Cos_InetMgrProc:114]get local host ok ip 0 passive 1
+03-21 10:48:17(12468) cos INFO: [Cos_SocketOpen:377]socket<1148> open ok
+03-21 10:48:17(12468) TRAS_TASK INFO: [TrasLocalLan_ListenTCP:357]Lan TCP Listen OK socket type 0 Port:15668
+03-21 10:48:17(12468) cos INFO: [Cos_SocketOpen:377]socket<1524> open ok
+03-21 10:48:17(12468) TRAS_TASK INFO: [TrasLocalLan_ListenUDP:298]Lan UDP listen OK.socket type 0 Port 17758
+03-21 10:48:17(12468) TRAS_TASK ERR: [TrasLocalLan_BuildBroadJson:428]The Local Not Activity.
+03-21 10:48:17(12468) cos INFO: [Cos_SocketOpen:377]socket<1580> open ok
+03-21 10:48:17(12468) TRAS_TASK INFO: [TrasOldLan_ListenTCP:260]Listen success, the port is 9001.
+03-21 10:48:17(12468) cos INFO: [Cos_SocketOpen:377]socket<1584> open ok
+03-21 10:48:17(12108) TRAS_HTTP INFO: [Tras_HttpProcessLoop:413]Http Socket Connected Slot 03A74B08, Socket 1212,index 1
+03-21 10:48:19(12108) TRAS_HTTP INFO: [Tras_HttpProcessLoop:444]Http Finished Slot is 03A74B08, Socket is 1212, Slot index is 1
+03-21 10:48:19(12108) TRAS_TASK INFO: [Tras_ParseGetLinkAddrRspjson:216]recv get link addr rsp {"METHOD":"4111","SEQID":"1","CODE":0,"BODY":{"EncKey":"79afff8963fe6c4d","EncLoad":"461669e8524acb57","EncType":"49","IPv4":"175.27.130.89","IPv6":"","Port":"19335","Region":"001","SvrID":"clink:086001:10.206.0.41"}}
+03-21 10:48:19(12108) TRAS_HTTP INFO: [Tras_HttpProcessSlot:515]Http  Finished Slot is 03A74B08, Socket is 1212, Slot is 1
+03-21 10:48:19(12108) cos INFO: [Cos_SocketClose:390]socket<1212> closed
+03-21 10:48:20(8364) cos INFO: [Cos_InetMgrProc:110]get host 175.27.130.89 ok ip 1501698991 passive 0
+03-21 10:48:20(12468) cos INFO: [Cos_SocketOpen:377]socket<1760> open ok
+03-21 10:48:20(12468) TRAS_TASK INFO: [TrasLink_Connect:240]Link Connect Addr:175.27.130.89:19335,ConnFlag:1
+03-21 10:48:20(12468) TRAS_TASK INFO: [TrasBase_ProcBaseSock:703]Link Connect Addr:175.27.130.89:19335,ConnectFlag is: 2
+03-21 10:48:20(12468) TRAS_TASK INFO: [TrasPeer_LoadDeviceList:304]load group list number 0
+03-21 10:48:36(12468) TRAS_TASK INFFILTER: [TrasLink_Ping:252]Link send heatbeart requst ret 8
+03-21 10:48:47(15420) CFG_TASK INFO: [Cfg_SetOwnerUsrId:496]set local usr id 1600010180901b46
+03-21 10:48:47(15420) cos ERR: [Cos_FileLoad:131]file open pucFileName:C:/Users/0/AppData/Local/VideoSurveillancePlatform/conf/config/8416cc91915c3399254f29d34955ecdb/groupcfg.db
+03-21 10:48:47(15420) CFG_TASK INFO: [Cfg_SetOwnerUsrToken:484]set local usr token 1600010180901b46qqfh8kk5u2lvn6hm
+03-21 10:48:47(12468) TRAS_TASK INFO: [TrasPeer_LoadDeviceList:304]load group list number 0
+03-21 10:48:47(12468) TRAS_TASK INFO: [TrasLink_AuthUserToken:178]ogct 2 send login requst body {"METHOD":"4116","SEQID":"2","BODY":{"UserToken":"1600010180901b46qqfh8kk5u2lvn6hm","SDKVersion":"33686018"}} iRet 0 
+03-21 10:48:47(12468) TRAS_TASK INFO: [TrasLink_ProcAuthTokenRsp:265]ogct 2 recv auth rsp code 0 
+03-21 10:48:47(12468) TRAS_TASK INFO: [TrasNat_GetNatServer:144]ogct 3 Get Detect Server Addr iRet 0 
+03-21 10:48:47(12468) TRAS_TASK INFO: [TrasNat_ParseGetNatSvrRsp:119]ogct 3 recv rsp code 0 natip 175.27.130.89:22025 encflag 0
+03-21 10:48:47(12468) cos INFO: [Cos_SocketOpen:377]socket<1232> open ok
+03-21 10:48:47(12468) TRAS_TASK INFO: [TrasNat_CreatNatHole:619]creat new nat hole get local udp port 8382 socket type 0
+03-21 10:48:47(12468) TRAS_TASK INFO: [TrasNat_CheckNatType:391]natinf init ok socket 1232 
+03-21 10:48:47(12468) TRAS_TASK INFO: [TrasNat_CheckNat:226]send udp msg to server 175.27.130.89:22025 iret 104
+03-21 10:48:47(12468) TRAS_TASK INFO: [TrasNat_CheckNatType:397]natInf send msg to port1 22025 
+03-21 10:48:47(12468) TRAS_TASK INFO: [TrasBase_OnPortHoleUDPRecv:994]recv msg 32,27
+03-21 10:48:47(12468) TRAS_TASK INFO: [Tras_ParseNatTestRsp:234]Recv Nat test rsp: {"METHOD":"201B","SEQID":"4","CODE":0,"BODY":{"NatIP":"121.225.53.133","Port":"30226"}}
+03-21 10:48:47(12468) TRAS_TASK INFO: [TrasNat_CheckNat:226]send udp msg to server 175.27.130.89:22026 iret 104
+03-21 10:48:47(12468) TRAS_TASK INFO: [TrasNat_CheckNatType:423]natInf send msg to port2 22026
+03-21 10:48:47(12468) TRAS_TASK INFO: [TrasBase_OnPortHoleUDPRecv:994]recv msg 32,27
+03-21 10:48:47(12468) TRAS_TASK INFO: [Tras_ParseNatTestRsp:234]Recv Nat test rsp: {"METHOD":"201B","SEQID":"5","CODE":0,"BODY":{"NatIP":"121.225.53.133","Port":"30255"}}
+03-21 10:48:47(12468) cos INFO: [Cos_SocketClose:390]socket<1232> closed
+03-21 10:48:47(12468) TRAS_TASK INFO: [TrasNat_CheckNatType:482]natInf check end, get local nattype 2 conetype 0
+03-21 10:48:47(12272) CFG_TASK INFO: [Cfg_Task_ProcOwnerCfg:709]ogct 6 start down owner inf
+03-21 10:48:47(12272) CFG_TASK INFO: [Cfg_Task_GetGroupList:432]ogct 7 begain get group list
+03-21 10:48:47(12468) CFG_TASK INFO: [Cfg_FindAndCreatGroupNode:201]creat new group 22000101c0d14a87 item 255
+03-21 10:48:47(12468) CFG_TASK INFO: [Cfg_FindAndCreatGroupNode:201]creat new group 2200010140d14ad1 item 255
+03-21 10:48:47(12468) CFG_TASK INFO: [Cfg_FindAndCreatGroupNode:201]creat new group 22000101c0d14b17 item 255
+03-21 10:48:47(12468) CFG_TASK INFO: [Cfg_RecvGetGroupListRsp:415]ogct 7 recv get grouplist response, code 0
+03-21 10:48:47(12468) CFG_TASK WARN: [Cfg_RcvDownOwnerInfRsp:683]ogct 6 recv down owner info rsp ,nickname 18238681692 code 0
+03-21 10:48:48(12272) CFG_TASK INFO: [Cfg_Task_GetGroupInfo:615]ogct 8 start get group 22000101c0d14a87 item 255
+03-21 10:48:48(12272) CFG_TASK INFO: [Cfg_Task_GetGroupInfo:615]ogct 9 start get group 2200010140d14ad1 item 255
+03-21 10:48:48(12272) CFG_TASK INFO: [Cfg_Task_GetGroupInfo:615]ogct 10 start get group 22000101c0d14b17 item 255
+03-21 10:48:48(12468) CFG_TASK INFO: [Cfg_RecvGetGroupInfRsp:589]ogct 9 recv groupinf rsp, code 0
+03-21 10:48:48(12468) CFG_TASK INFO: [Cfg_RecvGetGroupInfRsp:589]ogct 8 recv groupinf rsp, code 0
+03-21 10:48:48(12468) TRAS_TASK INFO: [TrasPeer_LoadDeviceList:304]load group list number 3
+03-21 10:48:48(12468) CFG_TASK INFO: [Cfg_RecvGetGroupInfRsp:589]ogct 10 recv groupinf rsp, code 0
+03-21 10:48:48(12468) TRAS_TASK INFO: [TrasPeer_LoadDeviceList:304]load group list number 3
+03-21 10:49:58(15420) CFG_TASK INFO: [Cfg_SetOwnerUsrToken:484]set local usr token 
+03-21 10:49:59(15420) CFG_TASK INFO: [Cfg_CleanGroupList:120]delete all group node
+03-21 10:49:59(15420) ZJ_TASK INFO: [ZJ_LogOut:499]usr log out 
+03-21 10:49:59(15420) TRAS_TASK INFO: [Tras_Init:10]Have Init. ReInit.
+03-21 10:49:59(15420) TRAS_TASK INFO: [Tras_SetNetworkType:69]set net work type 1 
+03-21 10:49:59(15420) TRAS_TASK INFO: [TrasBase_StartThread:410]Tras task  run already
+03-21 10:49:59(15420) TRAS_TASK INFO: [Tras_Start:36]tras task start ok
+03-21 10:49:59(12468) cos INFO: [Cos_SocketClose:390]socket<1524> closed
+03-21 10:49:59(12468) cos INFO: [Cos_SocketClose:390]socket<1148> closed
+03-21 10:49:59(12468) cos INFO: [Cos_SocketClose:390]socket<1760> closed
+03-21 10:49:59(12468) TRAS_TASK INFO: [TrasBase_ProcThread:495]net work change proc ok
+03-21 10:49:59(12468) TRAS_TASK INFO: [TrasNat_GetLocalIP:57]udpPort 192.168.50.1:9406 has been setted 
+03-21 10:50:00(8364) cos INFO: [Cos_InetMgrProc:110]get host svr.smartcloudcon.com ok ip 130627730 passive 0
+03-21 10:50:00(8364) cos INFO: [Cos_InetMgrProc:114]get local host ok ip 0 passive 1
+03-21 10:50:00(8364) cos INFO: [Cos_InetMgrProc:110]get host 175.27.130.89 ok ip 1501698991 passive 0
+03-21 10:50:00(12468) cos INFO: [Cos_SocketOpen:377]socket<2240> open ok
+03-21 10:50:00(12468) TRAS_TASK INFO: [TrasLocalLan_ListenTCP:357]Lan TCP Listen OK socket type 0 Port:15668
+03-21 10:50:00(12468) cos INFO: [Cos_SocketOpen:377]socket<2236> open ok
+03-21 10:50:00(12468) TRAS_TASK INFO: [TrasLocalLan_ListenUDP:298]Lan UDP listen OK.socket type 0 Port 17758
+03-21 10:50:00(12468) TRAS_TASK ERR: [TrasLocalLan_BuildBroadJson:428]The Local Not Activity.
+03-21 10:50:00(12468) cos INFO: [Cos_SocketOpen:377]socket<1760> open ok
+03-21 10:50:00(12468) TRAS_TASK INFO: [TrasLink_Connect:240]Link Connect Addr:175.27.130.89:19335,ConnFlag:1
+03-21 10:50:00(12468) cos INFO: [Cos_SocketClose:390]socket<1580> closed
+03-21 10:50:00(12468) cos INFO: [Cos_SocketOpen:377]socket<1580> open ok
+03-21 10:50:00(12468) TRAS_TASK INFO: [TrasOldLan_ListenTCP:260]Listen success, the port is 9001.
+03-21 10:50:00(12468) cos INFO: [Cos_SocketClose:390]socket<1584> closed
+03-21 10:50:00(12468) cos INFO: [Cos_SocketOpen:377]socket<1584> open ok
+03-21 10:50:00(12468) TRAS_TASK INFO: [TrasBase_ProcBaseSock:703]Link Connect Addr:175.27.130.89:19335,ConnectFlag is: 2
+03-21 10:50:12(15420) CFG_TASK INFO: [Cfg_SetOwnerUsrId:496]set local usr id 1600010180901b46
+03-21 10:50:12(15420) CFG_TASK INFO: [Cfg_LoadUserGroupCfg:26]load localFile ,get usr group list {"grplist":[{"syncflag":"1","grpid":"22000101c0d14a87","grpdesc":"","gtoken":"ott95r1320siy2cjyjxr","ownerid":"1600010180901b46"},{"syncflag":"1","grpid":"2200010140d14ad1","grpdesc":"","gtoken":"qsrouezwqr4munodrjn6","ownerid":"1600010180901b46"},{"syncflag":"1","grpid":"22000101c0d14b17","grpdesc":"","gtoken":"n9vjgomauzgwo3ihqbsw","ownerid":"1600010180901b46"}],"syncflag":"1"}
+03-21 10:50:12(15420) CFG_TASK INFO: [Cfg_FindAndCreatGroupNode:201]creat new group 22000101c0d14a87 item 255
+03-21 10:50:12(15420) CFG_TASK INFO: [Cfg_ParseGroupInfItem:1218]load grp 22000101c0d14a87 dev num 0 usrnum 0 rolenum 0 
+03-21 10:50:12(15420) CFG_TASK INFO: [Cfg_FindAndCreatGroupNode:201]creat new group 2200010140d14ad1 item 255
+03-21 10:50:12(15420) CFG_TASK INFO: [Cfg_ParseGroupInfItem:1218]load grp 2200010140d14ad1 dev num 0 usrnum 0 rolenum 0 
+03-21 10:50:12(15420) CFG_TASK INFO: [Cfg_FindAndCreatGroupNode:201]creat new group 22000101c0d14b17 item 255
+03-21 10:50:12(15420) CFG_TASK INFO: [Cfg_ParseGroupInfItem:1218]load grp 22000101c0d14b17 dev num 0 usrnum 0 rolenum 0 
+03-21 10:50:12(15420) CFG_TASK INFO: [Cfg_SetOwnerUsrToken:484]set local usr token 1600010180901b46lbg69jw0nm3q5vda
+03-21 10:50:12(12468) TRAS_TASK INFO: [TrasPeer_LoadDeviceList:304]load group list number 3
+03-21 10:50:12(12468) TRAS_TASK INFO: [TrasLink_AuthUserToken:178]ogct 11 send login requst body {"METHOD":"4116","SEQID":"11","BODY":{"UserToken":"1600010180901b46lbg69jw0nm3q5vda","SDKVersion":"33686018"}} iRet 0 
+03-21 10:50:12(12468) TRAS_TASK INFO: [TrasLink_ProcAuthTokenRsp:265]ogct 11 recv auth rsp code 0 
+03-21 10:50:12(12468) TRAS_TASK INFO: [TrasNat_GetNatServer:144]ogct 12 Get Detect Server Addr iRet 0 
+03-21 10:50:12(12468) TRAS_TASK INFO: [TrasNat_ParseGetNatSvrRsp:119]ogct 12 recv rsp code 0 natip 175.27.131.202:22025 encflag 0
+03-21 10:50:13(8364) cos INFO: [Cos_InetMgrProc:110]get host 175.27.131.202 ok ip 3397589935 passive 0
+03-21 10:50:13(12468) cos INFO: [Cos_SocketOpen:377]socket<2288> open ok
+03-21 10:50:13(12468) TRAS_TASK INFO: [TrasNat_CreatNatHole:619]creat new nat hole get local udp port 9406 socket type 0
+03-21 10:50:13(12468) TRAS_TASK INFO: [TrasNat_CheckNatType:391]natinf init ok socket 2288 
+03-21 10:50:13(12468) TRAS_TASK INFO: [TrasNat_CheckNat:226]send udp msg to server 175.27.131.202:22025 iret 104
+03-21 10:50:13(12468) TRAS_TASK INFO: [TrasNat_CheckNatType:397]natInf send msg to port1 22025 
+03-21 10:50:13(12272) CFG_TASK INFO: [Cfg_Task_ProcOwnerCfg:709]ogct 14 start down owner inf
+03-21 10:50:13(12272) CFG_TASK INFO: [Cfg_Task_GetGroupList:432]ogct 15 begain get group list
+03-21 10:50:13(12272) CFG_TASK INFO: [Cfg_Task_GetGroupInfo:615]ogct 16 start get group 22000101c0d14b17 item 255
+03-21 10:50:13(12272) CFG_TASK INFO: [Cfg_Task_GetGroupInfo:615]ogct 17 start get group 2200010140d14ad1 item 255
+03-21 10:50:13(12272) CFG_TASK INFO: [Cfg_Task_GetGroupInfo:615]ogct 18 start get group 22000101c0d14a87 item 255
+03-21 10:50:13(12468) CFG_TASK INFO: [Cfg_FindAndCreatGroupNode:177]find the group 22000101c0d14a87
+03-21 10:50:13(12468) CFG_TASK INFO: [Cfg_FindAndCreatGroupNode:177]find the group 2200010140d14ad1
+03-21 10:50:13(12468) CFG_TASK INFO: [Cfg_FindAndCreatGroupNode:177]find the group 22000101c0d14b17
+03-21 10:50:13(12468) CFG_TASK INFO: [Cfg_RecvGetGroupListRsp:415]ogct 15 recv get grouplist response, code 0
+03-21 10:50:13(12468) CFG_TASK INFO: [Cfg_RecvGetGroupInfRsp:589]ogct 16 recv groupinf rsp, code 0
+03-21 10:50:13(12468) TRAS_TASK INFO: [TrasPeer_LoadDeviceList:304]load group list number 3
+03-21 10:50:13(12468) CFG_TASK INFO: [Cfg_RecvGetGroupInfRsp:589]ogct 18 recv groupinf rsp, code 0
+03-21 10:50:13(12468) CFG_TASK INFO: [Cfg_RecvGetGroupInfRsp:589]ogct 17 recv groupinf rsp, code 0
+03-21 10:50:13(12468) TRAS_TASK INFO: [TrasPeer_LoadDeviceList:304]load group list number 3
+03-21 10:50:13(12468) CFG_TASK WARN: [Cfg_RcvDownOwnerInfRsp:683]ogct 14 recv down owner info rsp ,nickname 18238681692 code 0
+03-21 10:50:17(12468) TRAS_TASK INFO: [TrasNat_CheckNat:226]send udp msg to server 175.27.131.202:22025 iret 104
+03-21 10:50:17(12468) TRAS_TASK INFO: [TrasNat_CheckNatType:397]natInf send msg to port1 22025 
+03-21 10:50:17(12468) TRAS_TASK INFO: [TrasBase_OnPortHoleUDPRecv:994]recv msg 32,27
+03-21 10:50:17(12468) TRAS_TASK INFO: [Tras_ParseNatTestRsp:234]Recv Nat test rsp: {"METHOD":"201B","SEQID":"19","CODE":0,"BODY":{"NatIP":"121.225.53.133","Port":"32487"}}
+03-21 10:50:17(12468) TRAS_TASK INFO: [TrasNat_CheckNat:226]send udp msg to server 175.27.131.202:22026 iret 104
+03-21 10:50:17(12468) TRAS_TASK INFO: [TrasNat_CheckNatType:423]natInf send msg to port2 22026
+03-21 10:50:22(12468) TRAS_TASK INFO: [TrasNat_CheckNat:226]send udp msg to server 175.27.131.202:22026 iret 104
+03-21 10:50:22(12468) TRAS_TASK INFO: [TrasNat_CheckNatType:423]natInf send msg to port2 22026
+03-21 10:50:27(12468) TRAS_TASK INFO: [TrasNat_CheckNat:226]send udp msg to server 175.27.131.202:22026 iret 104
+03-21 10:50:27(12468) TRAS_TASK INFO: [TrasNat_CheckNatType:423]natInf send msg to port2 22026
+03-21 10:50:32(12468) TRAS_TASK INFO: [TrasNat_CheckNat:226]send udp msg to server 175.27.131.202:22026 iret 104
+03-21 10:50:32(12468) TRAS_TASK INFO: [TrasNat_CheckNatType:423]natInf send msg to port2 22026
+03-21 10:50:37(12468) cos INFO: [Cos_SocketClose:390]socket<2288> closed
+03-21 10:50:37(12468) cos INFO: [Cos_SocketOpen:377]socket<2288> open ok
+03-21 10:50:37(12468) TRAS_TASK INFO: [TrasNat_CreatNatHole:619]creat new nat hole get local udp port 9407 socket type 0
+03-21 10:50:37(12468) TRAS_TASK INFO: [TrasNat_CheckNatType:391]natinf init ok socket 2288 
+03-21 10:50:37(12468) TRAS_TASK INFO: [TrasNat_CheckNat:226]send udp msg to server 175.27.131.202:22025 iret 104
+03-21 10:50:37(12468) TRAS_TASK INFO: [TrasNat_CheckNatType:397]natInf send msg to port1 22025 
+03-21 10:50:37(12468) TRAS_TASK INFO: [TrasBase_OnPortHoleUDPRecv:994]recv msg 32,27
+03-21 10:50:37(12468) TRAS_TASK INFO: [Tras_ParseNatTestRsp:234]Recv Nat test rsp: {"METHOD":"201B","SEQID":"24","CODE":0,"BODY":{"NatIP":"121.225.53.133","Port":"28853"}}
+03-21 10:50:37(12468) TRAS_TASK INFO: [TrasNat_CheckNat:226]send udp msg to server 175.27.131.202:22026 iret 104
+03-21 10:50:37(12468) TRAS_TASK INFO: [TrasNat_CheckNatType:423]natInf send msg to port2 22026
+03-21 10:50:37(12468) TRAS_TASK INFO: [TrasBase_OnPortHoleUDPRecv:994]recv msg 32,27
+03-21 10:50:37(12468) TRAS_TASK INFO: [Tras_ParseNatTestRsp:234]Recv Nat test rsp: {"METHOD":"201B","SEQID":"25","CODE":0,"BODY":{"NatIP":"121.225.53.133","Port":"30084"}}
+03-21 10:50:37(12468) cos INFO: [Cos_SocketClose:390]socket<2288> closed
+03-21 10:50:37(12468) TRAS_TASK INFO: [TrasNat_CheckNatType:482]natInf check end, get local nattype 2 conetype 0
+03-21 10:54:58(12468) TRAS_TASK ERR: [TrasLink_ProcRecv:326]rcv data err 9  buff len 4096
+03-21 10:54:58(12468) cos INFO: [Cos_SocketClose:390]socket<1760> closed
+03-21 10:54:58(12468) cos INFO: [Cos_SocketOpen:377]socket<2288> open ok
+03-21 10:54:58(12468) TRAS_TASK INFO: [TrasLink_Connect:240]Link Connect Addr:175.27.130.89:19335,ConnFlag:1
+03-21 10:55:09(12468) cos INFO: [Cos_SocketClose:390]socket<2288> closed
+03-21 10:55:14(12468) cos INFO: [Cos_SocketOpen:377]socket<2272> open ok
+03-21 10:55:14(12468) TRAS_TASK INFO: [TrasLink_Connect:240]Link Connect Addr:175.27.130.89:19335,ConnFlag:1
+03-21 10:55:25(12468) cos INFO: [Cos_SocketClose:390]socket<2272> closed
+03-21 10:55:35(12468) cos INFO: [Cos_SocketOpen:377]socket<1632> open ok
+03-21 10:55:35(12468) TRAS_TASK INFO: [TrasLink_Connect:240]Link Connect Addr:175.27.130.89:19335,ConnFlag:1
+03-21 10:55:46(12468) cos INFO: [Cos_SocketClose:390]socket<1632> closed
+03-21 10:55:46(12468) TRAS_TASK INFO: [TrasLink_AsyncGetLinkAddr:143]Link begain to get addr sign addr svr.smartcloudcon.com ipv4 flag 0 
+03-21 10:55:46(12468) cos INFO: [Cos_SocketOpen:377]socket<1632> open ok
+03-21 10:55:46(12468) TRAS_HTTP INFO: [Tras_Httpsclient_SendAsyncPostRequest:1377]Slot is 03A74B08, Socket 1632,index is 2  Url triclient
+03-21 10:55:46(12468) cos INFO: [Cos_SocketOpen:377]socket<1396> open ok
+03-21 10:55:46(12468) TRAS_TASK INFO: [TrasLink_Connect:240]Link Connect Addr:175.27.130.89:19335,ConnFlag:1
+03-21 10:55:57(12468) cos INFO: [Cos_SocketClose:390]socket<1396> closed
+03-21 10:56:02(12468) cos INFO: [Cos_SocketOpen:377]socket<1396> open ok
+03-21 10:56:02(12468) TRAS_TASK INFO: [TrasLink_Connect:240]Link Connect Addr:175.27.130.89:19335,ConnFlag:1
+03-21 10:56:13(12468) cos INFO: [Cos_SocketClose:390]socket<1396> closed
+03-21 10:56:19(12108) cos INFO: [Cos_SocketClose:390]socket<1632> closed
+03-21 10:56:19(12108) TRAS_HTTP ERR: [Tras_HttpClientSlot_ProcessFailed:567]http failed  errcode 9 
+03-21 10:56:23(12468) cos INFO: [Cos_SocketOpen:377]socket<1548> open ok
+03-21 10:56:23(12468) TRAS_TASK INFO: [TrasLink_Connect:240]Link Connect Addr:175.27.130.89:19335,ConnFlag:1
+03-21 10:56:34(12468) cos INFO: [Cos_SocketClose:390]socket<1548> closed
+03-21 10:56:34(12468) TRAS_TASK INFO: [TrasLink_AsyncGetLinkAddr:143]Link begain to get addr sign addr svr.smartcloudcon.com ipv4 flag 0 
+03-21 10:56:34(12468) cos INFO: [Cos_SocketOpen:377]socket<1628> open ok
+03-21 10:56:34(12468) TRAS_HTTP INFO: [Tras_Httpsclient_SendAsyncPostRequest:1377]Slot is 03A74B08, Socket 1628,index is 3  Url triclient
+03-21 10:56:34(12468) cos INFO: [Cos_SocketOpen:377]socket<2292> open ok
+03-21 10:56:34(12468) TRAS_TASK INFO: [TrasLink_Connect:240]Link Connect Addr:175.27.130.89:19335,ConnFlag:1
+03-21 10:56:45(12468) cos INFO: [Cos_SocketClose:390]socket<2292> closed
+03-21 10:56:50(12468) cos INFO: [Cos_SocketOpen:377]socket<2296> open ok
+03-21 10:56:50(12468) TRAS_TASK INFO: [TrasLink_Connect:240]Link Connect Addr:175.27.130.89:19335,ConnFlag:1
+03-21 10:56:50(12468) TRAS_TASK INFO: [TrasBase_ProcBaseSock:703]Link Connect Addr:175.27.130.89:19335,ConnectFlag is: 2
+03-21 10:56:50(12468) TRAS_TASK INFO: [TrasLink_AuthUserToken:178]ogct 28 send login requst body {"METHOD":"4116","SEQID":"28","BODY":{"UserToken":"1600010180901b46lbg69jw0nm3q5vda","SDKVersion":"33686018"}} iRet 0 
+03-21 10:56:50(12468) TRAS_TASK INFO: [TrasLink_ProcAuthTokenRsp:265]ogct 28 recv auth rsp code 0 
+03-21 10:57:07(12108) cos INFO: [Cos_SocketClose:390]socket<1628> closed

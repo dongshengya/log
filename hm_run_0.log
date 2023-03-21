@@ -246,3 +246,5 @@
 03-21 10:56:50(12468) TRAS_TASK INFO: [TrasLink_AuthUserToken:178]ogct 28 send login requst body {"METHOD":"4116","SEQID":"28","BODY":{"UserToken":"1600010180901b46lbg69jw0nm3q5vda","SDKVersion":"33686018"}} iRet 0 
 03-21 10:56:50(12468) TRAS_TASK INFO: [TrasLink_ProcAuthTokenRsp:265]ogct 28 recv auth rsp code 0 
 03-21 10:57:07(12108) cos INFO: [Cos_SocketClose:390]socket<1628> closed
+
+add from romate
